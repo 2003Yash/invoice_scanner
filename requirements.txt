@@ -16,6 +16,7 @@ nest_asyncio
 azure-ai-inference
 pandas
 llama_parse
+google-cloud-aiplatform
 ocrmypdf
 numpy
 onnxruntime
